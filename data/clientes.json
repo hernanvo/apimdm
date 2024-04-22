@@ -1,0 +1,96 @@
+{
+	"clientes": [
+		{
+			"llaveMDM": "11058146",
+			"tipoId": "FS001",
+			"numeroId": "453693608682548",
+			"tipoPersona": "PN",
+			"nombre": "FELIPE WILSON",
+			"documento": "FS001!453693608682548"
+		},
+		{
+			"llaveMDM": "12504080",
+			"tipoId": "FS001",
+			"numeroId": "453617690451046",
+			"tipoPersona": "PN",
+			"nombre": "CARMELINA GABY",
+			"documento": "FS001!453617690451046"
+		},
+		{
+			"llaveMDM": "12555881",
+			"tipoId": "FS001",
+			"numeroId": "453613629857196",
+			"tipoPersona": "PN",
+			"nombre": "CINDY DAYANA ORTIZ",
+			"documento": "FS001!453613629857196"
+		},
+		{
+			"llaveMDM": "13158903",
+			"tipoId": "FS001",
+			"numeroId": "453613637737967",
+			"tipoPersona": "PN",
+			"nombre": "BENILDO WILLIE",
+			"documento": "FS001!453613637737967"
+		},
+		{
+			"llaveMDM": "231924",
+			"tipoId": "NIT",
+			"numeroId": "9006547342",
+			"tipoPersona": "PJ",
+			"nombre": "SUCS DE JOSE I MALCA",
+			"documento": "NIT!9006547342"
+		}
+	],
+	"detalle": [
+		{
+			"llaveMDM": "11058146",
+			"primerNombre": "FELIPE",
+			"segundoNombre": "",
+			"primerApellido": "WILSON",
+			"segundoApellido": "",
+			"nombreCorto": "FELIPE WILSON",
+			"genero": "M",
+			"estadoCivil": "S"
+		},
+		{
+			"llaveMDM": "12504080",
+			"primerNombre": "CARMELINA",
+			"segundoNombre": "JOAN",
+			"primerApellido": "GABY",
+			"segundoApellido": "",
+			"nombreCorto": "CARMELINA JOAN GABY",
+			"genero": "F",
+			"estadoCivil": "S"
+		},
+		{
+			"llaveMDM": "12555881",
+			"primerNombre": "CINDY",
+			"segundoNombre": "DAYANA",
+			"primerApellido": "ORTIZ",
+			"segundoApellido": "",
+			"nombreCorto": "CINDY DAYANA ORTIZ",
+			"genero": "F",
+			"estadoCivil": "C"
+		},
+		{
+			"llaveMDM": "13158903",
+			"primerNombre": "BENILDO",
+			"segundoNombre": "EDUARDO",
+			"primerApellido": "WILLIE",
+			"segundoApellido": "COLON",
+			"nombreCorto": "BENILDO EDUARDO WILLIE COLON",
+			"genero": "M",
+			"estadoCivil": "C"
+		},
+		{
+			"llaveMDM": "231924",
+			"primerNombre": "",
+			"segundoNombre": "",
+			"primerApellido": "",
+			"segundoApellido": "",
+			"nombreCorto": "SUCS DE JOSE I MALCA",
+			"genero": "",
+			"estadoCivil": ""
+		}
+	]
+}
